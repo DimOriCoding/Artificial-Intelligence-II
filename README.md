@@ -23,4 +23,5 @@ Gated Recurrent Units (GRUs) are a type of RNN introduced by Cho et al. in 2014.
 The classifier consists not only from RNN/LSTM/GRU cells, but also from skip connections method, where some layer in the neural network are skipped and the output of one layer is fed as the input to the next layers (instead of only the next one).
 
 [**Skip Connections and Self attention**](https://github.com/DimOriCoding/Artificial-Intelligence-II/blob/main/RNN_Movies_Classifier_with_skip_connections_and_self_attention.ipynb)
+
 The classifier consists from RNN/LSTM/GRU cells, skip connections method is used as well as self-attention mechanism is used. This is a mechanism captures long range dependencies by calculating attention between all words in the sequence (sentence) and helping the model to find which words are most relevant to each other.
