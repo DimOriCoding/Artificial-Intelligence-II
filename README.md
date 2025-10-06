@@ -25,3 +25,11 @@ The classifier consists not only from RNN/LSTM/GRU cells, but also from skip con
 [**RNN with skip connections and self-attention**](https://github.com/DimOriCoding/Artificial-Intelligence-II/blob/main/RNN_Movies_Classifier_with_skip_connections_and_self_attention.ipynb)
 
 The classifier consists from RNN/LSTM/GRU cells, skip connections method is used as well as self-attention mechanism is used. This is a mechanism captures long range dependencies by calculating attention between all words in the sequence (sentence) and helping the model to find which words are most relevant to each other.
+
+[**BERT**](https://drive.google.com/drive/folders/140mZEe1RmsTioyjHE0ebp-ocCJhJa8Tt)
+
+BERT (Bidirectional Encoder Representations from Transformers) is as an open-source machine learning framework designed for the natural language processing (NLP). Essentially is a pre-trained language model.
+
+The best classification models are saved as .pt files (**https://drive.google.com/drive/folders/1VBrlBFQIPzyiUpiP-aGaTzCJhT-FyOc8**). 
+
+The above projects were carried out as part of the postgraduate course “Artificial Intelligence” of the Postgraduate Program “Information and Communication Technologies” of UoA.
